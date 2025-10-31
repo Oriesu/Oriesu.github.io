@@ -2,7 +2,7 @@
 
 Última actualización:  31 de octubre de 2025
 
-Bienvenido a Wombo Combo (la "Aplicación"), operada por Javier Sánchez (en adelante, "nosotros", "nuestro").
+Bienvenido a Wombo Combo (la "Aplicación"), operada por Oriesu (en adelante, "nosotros", "nuestro").
 
 Nos tomamos en serio tu privacidad. Esta Política de Privacidad explica qué información recopilamos y cómo la usamos.
 
