@@ -18,12 +18,12 @@ Recopilamos información de dos maneras:
 
 Nombres de Jugadores: La Aplicación le permite introducir nombres de jugadores para su uso durante la partida. Esta información se almacena únicamente de forma local en su dispositivo y no se transmite, almacena ni comparte con nosotros.
 
-2. Información recopilada automáticamente (a través de socios publicitarios):
+2. Información potencialmente recopilada automáticamente (a través de socios publicitarios):
 
-Datos de Uso y del Dispositivo: Recopilamos información sobre cómo interactúa con nuestra Aplicación y sobre el dispositivo que utiliza.
+Datos de Uso y del Dispositivo: Podemos recopilar información sobre cómo interactúa con nuestra Aplicación y sobre el dispositivo que utiliza.
 
 Proveedores de Publicidad (Monetización)
-Nuestra Aplicación es gratuita y se financia mediante la visualización de anuncios. Para ello, nos asociamos con Unity Ads (un servicio de Unity Technologies).
+Nuestra Aplicación es gratuita y se puede financiar mediante la visualización de anuncios. Para ello, nos asociamos con Unity Ads (un servicio de Unity Technologies).
 
 Unity Ads puede recopilar y utilizar datos para proporcionar anuncios personalizados y relevantes para usted. Esta información puede incluir:
 
@@ -50,7 +50,7 @@ Seguridad
 Tomamos medidas razonables para proteger la información que se procesa a través de nuestra Aplicación. Sin embargo, ningún sistema de seguridad es impenetrable.
 
 Cambios a esta Política
-Podemos actualizar esta Política de Privacidad ocasionalmente. Le notificaremos de cualquier cambio publicando la nueva Política de Privacidad en esta página.
+Podemos actualizar esta Política de Privacidad ocasionalmente.
 
 Contacto
 Si tiene alguna pregunta sobre esta Política de Privacidad, puede contactarnos en: javiersanchezmartinez2006@gmail.com
