@@ -20,12 +20,12 @@ Nombres de Jugadores: La Aplicación le permite introducir nombres de jugadores 
 
 2. Información potencialmente recopilada automáticamente (a través de socios publicitarios):
 
-Datos de Uso y del Dispositivo: Podemos recopilar información sobre cómo interactúa con nuestra Aplicación y sobre el dispositivo que utiliza.
+Datos de Uso y del Dispositivo: No recopilamos información sobre cómo interactúa con nuestra aplicación y sobre el dispositivo que utiliza.
 
 Proveedores de Publicidad (Monetización)
-Nuestra Aplicación es gratuita y se puede financiar mediante la visualización de anuncios. Para ello, nos asociamos con Unity Ads (un servicio de Unity Technologies).
+Nuestra Aplicación es gratuita y se puede financiar mediante la visualización de anuncios. Para ello, nos asociaríamos con Unity Ads (un servicio de Unity Technologies).
 
-Unity Ads puede recopilar y utilizar datos para proporcionar anuncios personalizados y relevantes para usted. Esta información puede incluir:
+En caso de utilizar Unity Ads, esta puede recopilar y utilizar datos para proporcionar anuncios personalizados y relevantes para usted. Esta información puede incluir:
 
 Identificadores del dispositivo (como el IDFA en iOS o el ID de publicidad de Google en Android).
 
